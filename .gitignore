@@ -1,0 +1,13 @@
+fx2grok/
+libserialport/
+libsigrok/
+libsigrokdecode/
+pulseview/
+sigrok-androidutils/
+sigrok-cli/
+sigrok-dumps/
+sigrok-firmware-fx2lafw/
+sigrok-firmware/
+sigrok-meter/
+sigrok-test/
+sigrok-util/
