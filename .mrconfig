@@ -1,0 +1,51 @@
+[libsigrok]
+checkout =
+	git clone 'git://sigrok.org/libsigrok' 'libsigrok' -o sigrok
+
+[libsigrokdecode]
+checkout =
+	git clone 'git://sigrok.org/libsigrokdecode' 'libsigrokdecode' -o sigrok
+
+[pulseview]
+checkout =
+	git clone 'git://sigrok.org/pulseview' 'pulseview' -o sigrok
+
+[sigrok-cli]
+checkout =
+	git clone 'git://sigrok.org/sigrok-cli' 'sigrok-cli' -o sigrok
+
+[sigrok-firmware]
+checkout =
+	git clone 'git://sigrok.org/sigrok-firmware' 'sigrok-firmware' -o sigrok
+
+[sigrok-util]
+checkout =
+	git clone 'git://sigrok.org/sigrok-util' 'sigrok-util' -o sigrok
+
+[fx2grok]
+checkout =
+	git clone 'git://sigrok.org/fx2grok' 'fx2grok' -o sigrok
+
+[libserialport]
+checkout =
+	git clone 'git://sigrok.org/libserialport' 'libserialport' -o sigrok
+
+[sigrok-androidutils]
+checkout =
+	git clone 'git://sigrok.org/sigrok-androidutils' 'sigrok-androidutils' -o sigrok
+
+[sigrok-dumps]
+checkout =
+	git clone 'git://sigrok.org/sigrok-dumps' 'sigrok-dumps' -o sigrok
+
+[sigrok-firmware-fx2lafw]
+checkout =
+	git clone 'git://sigrok.org/sigrok-firmware-fx2lafw' 'sigrok-firmware-fx2lafw' -o sigrok
+
+[sigrok-meter]
+checkout =
+	git clone 'git://sigrok.org/sigrok-meter' 'sigrok-meter' -o sigrok
+
+[sigrok-test]
+checkout =
+	git clone 'git://sigrok.org/sigrok-test' 'sigrok-test' -o sigrok
