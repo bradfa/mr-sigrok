@@ -1,3 +1,14 @@
+# Teach mr some useful git tricks
+[DEFAULT]
+git_tag = git tag "$@"
+git_branch = git branch "$@"
+git_reset = git reset "$@"
+git_merge = git merge "$@"
+git_remote = git remote "$@"
+
+# Don't let 'mr commit' assume the '-a' switch or do a push
+git_commit = git commit "$@"
+
 [libsigrok]
 checkout =
 	git clone 'git://sigrok.org/libsigrok' 'libsigrok' -o sigrok
