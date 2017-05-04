@@ -5,6 +5,8 @@ git_branch = git branch "$@"
 git_reset = git reset "$@"
 git_merge = git merge "$@"
 git_remote = git remote "$@"
+git_fetch = git fetch "$@"
+git_gitcheckout = git checkout "$@"
 
 # Don't let 'mr commit' assume the '-a' switch or do a push
 git_commit = git commit "$@"
